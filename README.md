@@ -10,7 +10,8 @@ This repository contains the official legal documents for the **TickTockTower** 
 **App:** TickTockTower — Daily Focus Challenge
 **Platform:** iOS (App Store)
 **Developer:** TickTockTower Games
-**Contact:** support@ticktocktower.app
+**Contact:** barsbuildme@gmail.com
+**Developer:** [BarsBuild.me](https://barsbuildme.com)
 
 ---
 

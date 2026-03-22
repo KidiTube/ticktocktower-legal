@@ -35,7 +35,7 @@ TickTockTower is a free-to-play mobile skill game featuring:
 You may create an account using Apple Sign-In or email/password. You may also use the App as a guest without an account (limited features apply).
 
 ### 3.2 Account Security
-You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately of any unauthorised access to your account at **support@ticktocktower.app**.
+You are responsible for maintaining the confidentiality of your account credentials. You agree to notify us immediately of any unauthorised access to your account at **barsbuildme@gmail.com**.
 
 ### 3.3 Accuracy
 You agree to provide accurate and truthful information when creating your account, including your display name.
@@ -225,10 +225,14 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 
 If you have any questions about these Terms of Service, please contact us:
 
-**Email:** support@ticktocktower.app
+**Email:** barsbuildme@gmail.com
 **App:** TickTockTower — Daily Focus Challenge
 **Developer:** TickTockTower Games
 
 ---
 
 *© 2026 TickTockTower Games. All rights reserved.*
+
+---
+
+*Developed by [BarsBuild.me](https://barsbuildme.com)*

@@ -124,7 +124,7 @@ TickTockTower uses two virtual currencies:
 
 TickTockTower is not directed at children under the age of **13** (or under 16 in the European Union / EEA). We do not knowingly collect personal information from children under 13.
 
-If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **support@ticktocktower.app** and we will delete the information promptly.
+If you are a parent or guardian and believe your child has provided us with personal information, please contact us at **barsbuildme@gmail.com** and we will delete the information promptly.
 
 ---
 
@@ -154,7 +154,7 @@ Depending on your location, you may have the right to:
 - **Withdraw consent** for tracking at any time via iOS ATT settings
 - **Data portability** — request a copy of your data by contacting us
 
-To exercise any of these rights, use the in-app **Delete Account** feature or email us at **support@ticktocktower.app**.
+To exercise any of these rights, use the in-app **Delete Account** feature or email us at **barsbuildme@gmail.com**.
 
 ---
 
@@ -187,10 +187,14 @@ We may update this Privacy Policy from time to time. We will notify you of signi
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or your personal data, please contact us:
 
-**Email:** support@ticktocktower.app
+**Email:** barsbuildme@gmail.com
 **App:** TickTockTower — Daily Focus Challenge
 **Developer:** TickTockTower Games
 
 ---
 
 *© 2026 TickTockTower Games. All rights reserved.*
+
+---
+
+*Developed by [BarsBuild.me](https://barsbuildme.com)*
